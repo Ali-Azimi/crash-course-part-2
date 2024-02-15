@@ -1,0 +1,37 @@
+
+
+Component Lifecycle
+
+Mount
+Update
+Unmount
+
+
+
+Event
+Effect
+
+
+
+controlled component
+
+
+Authentication process in react step by step
+    ...
+    token based Authentication
+        OAuth
+        JWT
+        bearer token
+
+
+Contact List
+    header 
+    => login => click => login form => input => 
+    phone number (client otp => 6 length) => 
+    confirmation code (check otp) => success/failed
+    a counter limitation
+    edit phone button
+    validation (corresponding message)
+
+
+    *change header ui based on login or not
